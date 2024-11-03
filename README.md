@@ -6,3 +6,6 @@ $ conda activate your-env
 
 ## Open Streamlit:
 $ streamlit run src/app.py
+
+## Leave condaenv:
+$ conda deactivate
